@@ -1,0 +1,9 @@
+qa\test\DeleteRequest.class
+qa\test\Simplevalidation.class
+serializationDeserialization\test.class
+qa\test\Getweather.class
+qa\test\PostwithSerializationDeserialization.class
+qa\test\CustomerPost.class
+serializationDeserialization\SerializationDeserializationDemo.class
+qa\test\Xmlresponsevalidation.class
+qa\test\XmlreqRespSerialiDeserialization.class

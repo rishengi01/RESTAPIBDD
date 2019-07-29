@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RestapiautomationBDD" duration-ms="2636" started-at="2019-07-19T10:04:21Z" finished-at="2019-07-19T10:04:24Z">
+    <groups>
+    </groups>
+    <test name="RestAPiBDD" duration-ms="2636" started-at="2019-07-19T10:04:21Z" finished-at="2019-07-19T10:04:24Z">
+      <class name="qa.test.Getweather">
+        <test-method status="PASS" signature="getweatherdetail()[pri:0, instance:qa.test.Getweather@17c68925]" name="getweatherdetail" duration-ms="2625" started-at="2019-07-19T15:34:21Z" finished-at="2019-07-19T15:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherdetail -->
+      </class> <!-- qa.test.Getweather -->
+    </test> <!-- RestAPiBDD -->
+  </suite> <!-- RestapiautomationBDD -->
+</testng-results>
